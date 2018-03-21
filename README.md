@@ -2,6 +2,7 @@
 A short example illustrating how to build a rest service for karaf using cxf-dosgi
 
 ## Setting up the karaf environment
+salut
 
 Download and unzip karaf 4.1.2
 Start the server and the console using `bin\karaf.bat`
