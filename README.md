@@ -6,7 +6,7 @@ salut
 
 Download and unzip karaf 4.1.2
 Start the server and the console using `bin\karaf.bat`
-
+HHHHH
 By default, you'll have a server running on port 8181.
 
 Run the following command in order to review the list of OSGi bundles currently deployed in this environment. Pretty empty isn't it?
